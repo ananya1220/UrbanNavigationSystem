@@ -1,0 +1,42 @@
+{
+    "mumbai": {
+        "varanasi": 220,
+        "pune": 200,
+        "kerla": 200,
+        "chandigarh": 150,
+        "mohali": 180
+    },
+    "varanasi": {
+        "mumbai": 220,
+        "gujrat": 200,
+        "delhi": 852,
+        "punjab": 200
+    },
+    "pune": {
+        "mumbai": 200,
+        "kerla": 100
+    },
+    "gujrat": {
+        "varanasi": 200,
+        "kerla": 400
+    },
+    "delhi": {
+        "varanasi": 852
+    },
+    "kerla": {
+        "gujrat": 400,
+        "mumbai": 200,
+        "pune": 100
+    },
+    "chandigarh": {
+        "mohali": 100,
+        "mumbai": 150
+    },
+    "mohali": {
+        "chandigarh": 100,
+        "mumbai": 180
+    },
+    "punjab": {
+        "varanasi": 200
+    }
+}
